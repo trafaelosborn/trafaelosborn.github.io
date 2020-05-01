@@ -25,7 +25,9 @@ body {
 }
 
 #border4 {
-    height: 150px;
+    height: 250px;
+    margin-bottom: 0px;
+    margin-top: 150px;
 }
 
 #border3 {
@@ -118,7 +120,7 @@ body {
    }
    
    #firstworld {
-       margin-top: 12.5%;
+       margin-top: 8%;
    }
 
    .portfolio-link {
